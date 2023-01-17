@@ -10,7 +10,6 @@ Infinitive - inf - инф
 I want to know English // to know is inifnitive
 ```
 
-
 ### времена 
 В инфинитиве 6 времен - 4 актива и два пассива 
 
@@ -27,5 +26,7 @@ I want to be helped  // Я хочу, чтобы мне помогли
 past active 
 ```
 I want to have helped you 
+```
+Очень неплохо написать свои примеры со всеми временнами, чтобы лучше понять его 
 
-
+version 0.01 
