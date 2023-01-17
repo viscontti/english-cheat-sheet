@@ -1,4 +1,6 @@
 # english-cheat-sheet
 
-- [Gerund](gerunde.md)
-- [Infinitive](infinitive.md)
+
+- Grammar
+  - [Gerund](gerunde.md)
+  - [Infinitive](infinitive.md)
