@@ -20,7 +20,21 @@ I want to know English // to know is inifnitive
 ```
 [!] I make him do this work BUT I was made TO do this
 ```
+```
+[!] I permit speaking here BUT I was permited TO do this
+```
 
+```
+[!]
+He remembered to study every day  // он напомнил 
+He remembred styding 
+```
+
+```
+[!]
+I allow doing this 
+I am allowed to do this
+```
 
 You had better - раздраженный совет, агрессивная, риторическая просьба, угроза \
 Ты бы лучше поучил теорию перед эказаменов (эдкий сарказм инотанацией) \
