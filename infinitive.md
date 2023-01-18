@@ -36,6 +36,12 @@ I allow doing this
 I am allowed to do this
 ```
 
+```
+[!]
+I frightened flying on plane 
+I freghtened to fly on plane 
+```
+
 You had better - раздраженный совет, агрессивная, риторическая просьба, угроза \
 Ты бы лучше поучил теорию перед эказаменов (эдкий сарказм инотанацией) \
 Тебе следует уйти (ты сваливаешь сейчас или я тебе вломлю, но вежливо) \
