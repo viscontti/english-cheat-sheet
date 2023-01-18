@@ -42,6 +42,12 @@ I frightened flying on plane
 I freghtened to fly on plane 
 ```
 
+```
+[!]
+I had make my sandvich and went on to do my homework
+I went on doing my homework
+```
+
 You had better - раздраженный совет, агрессивная, риторическая просьба, угроза \
 Ты бы лучше поучил теорию перед эказаменов (эдкий сарказм инотанацией) \
 Тебе следует уйти (ты сваливаешь сейчас или я тебе вломлю, но вежливо) \
