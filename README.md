@@ -5,10 +5,12 @@
   - [Gerund](gerunde.md)
   - [Infinitive](infinitive.md)
 
+### терминология 
+
+[!] - исключение 
+[!!] - исключение на исключение 
 
 ### temp 
-
-
 Present Simple 
 
 шипит -> s
