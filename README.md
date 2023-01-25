@@ -35,6 +35,7 @@ so annoying
  
 come across - наткунуться
 come into - унаследовать 
+come at - достиг что-то, атакую 
  
  
  
