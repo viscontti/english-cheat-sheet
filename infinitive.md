@@ -58,9 +58,9 @@ Go on reaing, please!
 ```
 
 ```
-[!]
-regret + ing = жалкую 
-regret + to = мне жаль сказать 
+I regret buying iPhone // Зачем блин я купил этот айфон
+//
+I regret to say that you ... // С сожалением говорю тебе, что ты ...
 ```
 
 ```
