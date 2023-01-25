@@ -21,7 +21,7 @@ Present Continious
 
 
 such vs too 
-such ставим с именнык, им + прыкметныками
+such ставим с именнык (кто), им + прыкметныками (какой)
  
 such a или such
  
