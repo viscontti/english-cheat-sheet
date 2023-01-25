@@ -10,18 +10,24 @@
 ```
 I want to know English // to know is inifnitive
 ```
-### исключения 
+### [!] 
 В инфинитиве не всегда ставиться 'to' перед глаголом 
 - can, could, may, might, will, shall, would, should, must (это модальные глаголы)
 - let, make 
 - see, hear, feel (все чувства, ощущения)
 - после выражений I would rather (Я бы предпочел), You had better (Тебе бы очень-очень следовало)
 
+### [!!]
+
 ```
-[!] I make him do this work BUT I was made TO do this
+I make him do this work
+BUT 
+I was made TO do this
 ```
 ```
-[!] I permit speaking here BUT I was permited TO do this
+I permit speaking here 
+BUT 
+I was permited TO do this
 ```
 
 ```
