@@ -3,9 +3,6 @@
 
 - Grammar
   - [G+I](g+i.md)
-  - [Gerund](gerunde.md)
-  - [Infinitive](infinitive.md)
-
 ### терминология 
 
 [!] - исключение \
