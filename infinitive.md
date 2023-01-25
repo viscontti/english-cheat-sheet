@@ -69,13 +69,14 @@ regret
 
 I regret buying iPhone // Зачем блин я купил этот айфон
 //
-I regret to say that you ... // С сожалением говорю тебе, что ты ...
+I regret to say that you ... // С сожалением сообщаю тебе, что ты ...
 ```
 
 ```
 mean и сынонимы
 
-means + to = намереваться 
+He means to create this game // он намеревается сделать эту игру
+//
 means + -ing = подразумевать
 ```
 
@@ -106,8 +107,6 @@ want
 i want to speak 
 car wants to be washed 
 ```
-
-
 
 You had better - раздраженный совет, агрессивная, риторическая просьба, угроза \
 Ты бы лучше поучил теорию перед эказаменов (эдкий сарказм инотанацией) \
