@@ -29,23 +29,21 @@ I permit speaking here
 BUT 
 I was permited TO do this
 ```
-
+Разное значение между Gerund/Infinitive
 ```
-[!]
-He remembered to study every day  // он напомнил 
-He remembred styding 
-```
-
-```
-[!]
-I allow doing this 
-I am allowed to do this
+Don't remember to turn off the light  // не забудь выключить свет 
+//
+He remember styding in KPI // он вспоминил как учился в КПИ
 ```
 
 ```
-[!]
-I frightened flying on plane 
-I freghtened to fly on plane 
+I allow doing this // Работает так же как и в первых трех примерах
+I am allowed to do this // только смена TO/Gerund
+```
+
+```
+I frightened flying on plane // Вообще я боюсь летать на самолете 
+I freghtened to fly on plane // Я боюсь лететь на самолете (прямо тут и сейчас). Посмотри! У меня трясуться коленки
 ```
 
 ```
