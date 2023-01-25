@@ -33,6 +33,8 @@ such a или such
 such a clever person 
 so annoying
  
+come across - наткунуться
+come into - унаследовать 
  
  
  
