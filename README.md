@@ -19,3 +19,20 @@ y перед прыг убрать
 Present Continious
 ничего перед игриком
 
+
+such vs too 
+such ставим с именнык, им + прыкметныками
+ 
+such a или such
+ 
+не можно порахувать - such a nice weather 
+множ или нельзя посчитать НЕ ставим а
+
+только прык
+
+such a clever person 
+so annoying
+ 
+ 
+ 
+ 
