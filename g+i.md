@@ -2,6 +2,7 @@
  
  - [Gerund](gerunde.md)
  - [Infinitive](infinitive.md)
+ - [g+i shared exceptions](g+i-shared-exceptions.md)
  - [Complex Subject]()
  - [Complex Object]()
  - [Shared exceptions](shared-exceptions.md)
