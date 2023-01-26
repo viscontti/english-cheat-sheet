@@ -69,6 +69,13 @@ By the next day, she will have made this task // Future Perfect строитьс
 passive 
 This poem must have been written by Veronica
 ```
+- PrPC
+```
+I'm glad to have been living in Kharkov for 3 years 
+The organisers were thought to have been preparing for days.
+
+Так же на этой тему строить FuPC
+```
 
 ### sources 
 https://www.grammaring.com/the-forms-of-the-infinitive
