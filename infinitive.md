@@ -21,6 +21,7 @@ I want to know English // to know is inifnitive
 
 - [Shared exceptions with gerund](g+i-shared-excpetions.md)
 
+В некоторых случаях частичка TO упускается
 ```
 I make him do this work
 BUT 
