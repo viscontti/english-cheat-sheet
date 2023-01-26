@@ -36,12 +36,6 @@ I permit speaking here
 BUT 
 I was permited TO do this
 ```
-```
-want 
-
-i want to speak 
-car wants to be washed 
-```
 ### времена 
 В инфинитиве 6 времен - 4 актива и два пассива \
 На два актива больше чем в герунде 
