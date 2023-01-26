@@ -19,7 +19,7 @@ I want to know English // to know is inifnitive
 
 ### [!!]
 
-[Shared exceptions with gerund](g+i-shared-excpetions.md)
+- [Shared exceptions with gerund](g+i-shared-excpetions.md)
 
 ```
 I make him do this work
