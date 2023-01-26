@@ -40,9 +40,35 @@ I was permited TO do this
 В инфинитиве 6 времен - 4 актива и два пассива \
 На два актива больше чем в герунде 
 
-**active**: PrS, PrC, PrP, PrPC \
-**passive**: PrS, PrP
 
 Формула не сложная. Все строиться на том, что после 'to' ставиться ключевое слово в инфинтиве и дальше как обычно
 
-version 0.01 
+**active**: PrS, PrC, PrP, PrPC \
+**passive**: PrS, PrP
+
+- PrS
+```
+active 
+I want to write // Я хочу писать 
+
+passive
+I want to be written // Я хочу, чтобы что-то было написано
+```
+- PrС
+```
+I am glad to be settings here // Я очень рад что сижу здесь (прямо сейчас)
+```
+- PrP
+```
+active 
+I'm glad to have studied at KPI // Я рад БЫЛ учить в кпи (в прошлом, уже закончил)
+
+Можно фигануть в Future
+By the next day, she will have made this task // Future Perfect строиться на inf-e
+
+passive 
+This poem must have been written by Veronica
+```
+
+### sources 
+https://www.grammaring.com/the-forms-of-the-infinitive
