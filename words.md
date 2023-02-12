@@ -16,3 +16,7 @@ annually - ежегодно
 erode - разрушать
 prove - доказывать
 preversing - предвосхищение
+againts - 
+troy - 
+pure - 
+established - 
