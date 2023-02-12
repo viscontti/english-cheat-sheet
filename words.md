@@ -8,6 +8,11 @@ distinctive - отличительный
 resemble - напоминать
 stage - этап
 
-however - 
-choirs - 
-fruitful - 
+however - однако
+choir - хор
+fruitful - плодотворный
+beneath - под
+annually - ежегодно
+erode - разрушать
+prove - доказывать
+preversing - предвосхищение
