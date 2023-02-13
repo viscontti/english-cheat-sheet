@@ -20,3 +20,8 @@ againts -
 troy - 
 pure - 
 established - 
+indeed - действительно
+
+withdrawn - отзывать
+pinkish - розоватый
+complexion - цвет лица
