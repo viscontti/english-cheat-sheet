@@ -25,3 +25,7 @@ indeed - действительно
 withdrawn - отзывать
 pinkish - розоватый
 complexion - цвет лица
+quite - довольно 
+seem - казаться 
+arrange - согласовать 
+cheerfully - весело 
