@@ -29,3 +29,4 @@ quite - довольно
 seem - казаться 
 arrange - согласовать 
 cheerfully - весело 
+to fine - штрафовать
