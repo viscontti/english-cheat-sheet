@@ -30,3 +30,5 @@ seem - казаться
 arrange - согласовать 
 cheerfully - весело 
 to fine - штрафовать
+call off - отменять, отзывать 
+parcel - посылка
