@@ -32,3 +32,4 @@ cheerfully - весело
 to fine - штрафовать
 call off - отменять, отзывать 
 parcel - посылка
+eventually - в конце концов
