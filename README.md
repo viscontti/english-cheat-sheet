@@ -5,6 +5,7 @@
   - [G+I](g+i.md)
   - [such+so](such+so.md)
   - [words](words.md)
+  - [conditions](conditions.md)
   
 ### терминология 
 [!] - исключение \
