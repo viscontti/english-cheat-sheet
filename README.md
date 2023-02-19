@@ -41,4 +41,7 @@ come into - унаследовать
 come at - достиг что-то, атакую 
  
  
- 
+### TODO
+- adjectives priority 
+- gerund 
+- conditionals 
