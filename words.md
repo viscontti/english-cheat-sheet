@@ -35,4 +35,13 @@
 - rehearsal - репетиция
 - needle - иголка 
 - mend - исправить 
+- disticly - четко
+- hard up - трудно, загружено
+- come across - накткнулся 
+- come into - унаследовать 
+- inherit - наследовать
+- come at - наброситься на (с агрессией)
+- moaning - стоны 
+- bothered - обеспокоенный
+
 
