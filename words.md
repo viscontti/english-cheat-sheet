@@ -33,15 +33,25 @@
 - parcel - посылка
 - eventually - в конце концов
 - rehearsal - репетиция
+- trays - подносы 
+- revive - оживлять 
+- descent - снижаться 
+- tarmac -трасса 
+- halt - конец, финал 
+- slamp - удар
+- shake your hand - пожать руку
+- tore - рвать
 - needle - иголка 
 - mend - исправить 
-- purse - кошелек
-- distinctly - отчетливо
-- hard up - трудно 
-- moaning - стоны
-- groaning - стоны
-- wedding - свадьба
-- arrangements - распоряжения
-- exhausted - измученный
-- spare - запасной 
-- bothered - обеспокоенный
+
+- approached - достиг, прошел
+- sobbimg -   хныкать, рыдать 
+- icle - проход 
+- wast - впустую 
+- deserve - заслужить 
+- bargaining - сделка
+- precise - точный
+- make sure - убедить
+- emphasis - удеелять внимание
+- 
+-
