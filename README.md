@@ -50,3 +50,4 @@ come at - достиг что-то, атакую
 - who which that 
 - a an the 
 - such a/an, so
+- take bring 
