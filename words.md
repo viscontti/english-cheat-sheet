@@ -35,4 +35,13 @@
 - rehearsal - репетиция
 - needle - иголка 
 - mend - исправить 
-
+- purse - кошелек
+- distinctly - отчетливо
+- hard up - трудно 
+- moaning - стоны
+- groaning - стоны
+- wedding - свадьба
+- arrangements - распоряжения
+- exhausted - измученный
+- spare - запасной 
+- bothered - обеспокоенный
