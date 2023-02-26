@@ -45,3 +45,8 @@ come at - достиг что-то, атакую
 - adjectives priority 
 - gerund 
 - conditionals 
+
+- a little a few 
+- who which that 
+- a an the 
+- such a/an, so
